@@ -1,4 +1,4 @@
 package com.project.rsstelegrambot.repository;
 
-public class RssChannelRepository {
+public interface RssChannelRepository {
 }
